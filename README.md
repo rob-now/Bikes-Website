@@ -2,4 +2,4 @@
 
 Bikes website from tutorial
 
-[YouTube playlist](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQeDH6xYhmO-db2mhoTSrT)
+<a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQeDH6xYhmO-db2mhoTSrT" target="_blank">Youtube playlist</a>
